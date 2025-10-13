@@ -6,7 +6,7 @@ My name is Chanh Nguyen. I am a second-year student - Computer Science at Swinbu
 
 
 
-![Chanh's github stats](https://github.com/chanhbe/api?username=chanhbe&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Chanh's github stats](chanhbe.vercel.app/api?username=chanhbe&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
