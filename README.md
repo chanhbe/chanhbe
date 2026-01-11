@@ -26,10 +26,10 @@ My name is Chanh Nguyen. I am a second-year student - Computer Science at Swinbu
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/chanhbe/COS10026-WebTechnologyProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=COS10026-WebTechnologyProject&theme=radical" alt="WebTechnologyProject" width="400"/></a>
-  <a href="https://github.com/chanhbe/HeriTech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=HeriTech&theme=merko" alt="HeriTech Dashboard" width="400"/></a>
-</p>
+
+<a href="https://github.com/chanhbe/COS10026-WebTechnologyProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=COS10026-WebTechnologyProject&theme=radical" alt="WebTechnologyProject" width="400"/></a>
+<a href="https://github.com/chanhbe/HeriTech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=HeriTech&theme=merko" alt="HeriTech Dashboard" width="400"/></a>
+
 
 
 -------
