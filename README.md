@@ -13,14 +13,20 @@ My name is Chanh Nguyen. I am a second-year student - Computer Science at Swinbu
 ![](https://nirzak-streak-stats.vercel.app/?user=chanhbe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhbe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/chanhbe/COS10026-WebTechnologyProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=COS10026-WebTechnologyProject&theme=radical" alt="WebTechnologyProject" />
-  </a>
-  <a href="https://github.com/chanhbe/HeriTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=HeriTech&theme=merko" alt="HeriTech Dashboard" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/chanhbe/COS10026-WebTechnologyProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=COS10026-WebTechnologyProject&theme=radical" alt="Web Technology Project"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/chanhbe/HeriTech">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanhbe&repo=HeriTech&theme=tokyonight" alt="HeriTech Dashboard"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
