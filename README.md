@@ -23,6 +23,10 @@ My name is Chanh Nguyen. I am a second-year student - Computer Science at Swinbu
   </a>
 </p>
 -------
+<a href="https://github.com/chanhbe/COS10026-WebTechnologyProject/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chanhbe&repo=COS10026-WebTechnologyProject&theme=merko" />
+</a>
 
 <a href="https://github.com/chanhbe/HeriTech/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
