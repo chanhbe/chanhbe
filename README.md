@@ -23,6 +23,24 @@ My name is Chanh Nguyen. I am a second-year student - Computer Science at Swinbu
   </a>
 </p>
 
+<a href="https://github.com/vietnh1009/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/vietnh1009/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+</a>
+
+<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+</a>    
+<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+</a>
+
 
 
 ## 🏆 GitHub Trophies
